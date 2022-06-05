@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+}
+#Clock {
+    color: white;
+    display :flex ;
+    justify-content: center;
+    margin-top: 300px;
+    font-size: 100px;
+    letter-spacing: 10px;
+    color: white;
+    border: 2px solid red;
+    border-radius: 40px;
+    width: 45%;
+    margin-left: 400px;
+}
